@@ -5,8 +5,8 @@ a happy home and harmonious family life, challenges of Parenting and
 some food tips and recipes for picky and fussy eaters to make your life easier.' 
 
 permalink: ':title/'
-baseurl: '' #"/homehearthandhealth"
-url: '' #"https://banutsav.github.io"
+baseurl: ''
+url: ''
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
