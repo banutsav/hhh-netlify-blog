@@ -1,0 +1,50 @@
+title: Home Hearth & Health
+description: 'Through this blog, 
+I would like to share my valuable life experience on how to manage 
+a happy home and harmonious family life, challenges of Parenting and 
+some food tips and recipes for picky and fussy eaters to make your life easier.' 
+
+permalink: ':title/'
+baseurl: '' #"/homehearthandhealth"
+url: '' #"https://banutsav.github.io"
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: 'Jayita Dasgupta'
+logo-img: logo-black.png
+author-img: software.jpg
+
+# unsplash
+unsplash-api-url: 
+photo-res: 
+
+about-author: 'A home maker, a mother of one adult and one young adult boy. 
+A Post Graduate in English Literature and Language, I have spent a few years of my life working as a teacher for middle school and senior school students. 
+Living abroad and managing two kids and a husband for a long time 
+has given me a lot of insight into how to run a harmonious family life.'
+
+social-twitter: jayitadg1
+social-facebook: jayita.dasgupta.1
+social-github:  # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-instagram: jayitadg
+social-email: jayitadg@gmail.com
+
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 10
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
