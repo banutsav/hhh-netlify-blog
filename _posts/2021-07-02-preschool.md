@@ -18,3 +18,8 @@ By now most children develop speech skills , love to play with other kids, follo
 > By the age of 3, a child’s brain is fully developed to learn and remember rhymes, parts of stories, understand and enjoy music and animations on the television. The child also develops the gross motor skills to pedal a tricycle. By the age of 4 a child should articulate well enough to be understood.
 
 Although different children develop at their own pace, the more care and attention the child gets from parents and family, the faster and easier it will be  to adjust to the immediate society that has opened up for him or her. A child of 3 to 5 is very much aware of his or her needs and desires and also behaves accordingly when they are met or not met with.
+
+### References ##
+
+- [https://www.parents.com/](https://www.parents.com/)
+- [https://www.cdc.gov/](https://www.cdc.gov/)
