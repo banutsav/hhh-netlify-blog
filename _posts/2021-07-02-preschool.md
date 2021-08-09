@@ -19,7 +19,7 @@ By now most children develop speech skills , love to play with other kids, follo
 
 Although different children develop at their own pace, the more care and attention the child gets from parents and family, the faster and easier it will be  to adjust to the immediate society that has opened up for him or her. A child of 3 to 5 is very much aware of his or her needs and desires and also behaves accordingly when they are met or not met with.
 
-### References ##
+### References ###
 
 - [https://www.parents.com/](https://www.parents.com/)
 - [https://www.cdc.gov/](https://www.cdc.gov/)
